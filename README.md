@@ -17,6 +17,6 @@ Started Date: Aug. 2017
 4. Reinforcement Learning
 	- Project 4: [Train a Smartcab to Drive (Implement Q-learning algorithm)](https://github.com/tianyu-z/Advanced_Machine_Learning_Engineer/tree/master/smartcab)
 5. Image Classification
-  - Project 5: [Image Classification](https://github.com/tianyu-z/Advanced_Machine_Learning_Engineer/tree/master/image-classification)
-5. Capstone Project
-  - Project 5: [Rossmann Store Sales (Predict sales data for a store)](https://github.com/tianyu-z/Advanced_Machine_Learning_Engineer/tree/master/RossmannStoreSales)
+  	- Project 5: [Image Classification](https://github.com/tianyu-z/Advanced_Machine_Learning_Engineer/tree/master/image-classification)
+6. Capstone Project
+  	- Project 6: [Rossmann Store Sales (Predict sales data for a store)](https://github.com/tianyu-z/Advanced_Machine_Learning_Engineer/tree/master/RossmannStoreSales)
