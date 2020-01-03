@@ -4,7 +4,7 @@ Udacity's Machine Learning Nanodegree project files and notes.
 
 This repository contains project files for [Udacity's Machine Learning Engineer Nanodegree program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
 
-Started Date: Aug. 2017
+Date: Aug. 2017
 
 ## Program Outline:
 
