@@ -1,0 +1,24 @@
+﻿1.python代码：Rossman.ipynb
+其中因为Windows的Python有不支持float128的BUG，所以有些RMSPE分数在学校的Mac机器上跑出来后再用自己的Windows跑只能显示nan
+
+2.目录下的：Rossmann_report.pdf
+
+3.随机森林建模
+训练使用时间是57.3 s
+需要预测的test
+预测所用时间是120 ms
+XGBoost建模（初始化）
+训练使用时间是1min 31s
+需要预测的test收
+预测所用时间是184 ms
+最后优化后的XGBoost建模
+训练使用时间是1h 6min 19s
+需要预测的test
+预测所用时间是2min 21s
+预测结果上传Kaggle进行评分是0.11721
+
+4.预测结果：xgboost_submission_3000.csv
+
+5.上传到kaggle的截图：kaggle.PNG
+
+6.运行代码成功的截图：result.PNG
